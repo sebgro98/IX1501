@@ -1,2 +1,2 @@
-# IX1501
+# IX1501 Mathematical Statistics
  
